@@ -608,7 +608,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 2.5rem;
-	background: url('../images/header-background.png') center center no-repeat;
+	background: url('../images/fondo2.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -751,10 +751,17 @@ input[type='checkbox'] {
 /*********************/
 /*     Details 1     */
 /*********************/
+.basic-1 {
+	padding-top: 9.25rem;
+	padding-bottom: 5rem;
+	background: url('../images/fondo2.jpg') center center no-repeat;
+	background-size: cover;
+}
+
 .basic-2 {
 	padding-top: 9.25rem;
 	padding-bottom: 5rem;
-	background: url('../images/details-1-background.png') center center no-repeat;
+	background: url('../images/fondo2.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1020,6 +1027,8 @@ input[type='checkbox'] {
 	padding-top: 9.5rem;
 	padding-bottom: 8.5rem;
 	text-align: center;
+	background: url('../images/fondo2.jpg') center center no-repeat;
+	background-size: cover;
 }
 
 .form-1 .h2-heading {
