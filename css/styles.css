@@ -1529,8 +1529,8 @@ a:hover.back-to-top {
 	}
 
 	.header img {
-		position: absolute;
-		left: 5rem;
+		position: relative;
+		/* left: 5rem; */
 	}
 	/* end of header */
 
